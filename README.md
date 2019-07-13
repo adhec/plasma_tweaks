@@ -1,7 +1,6 @@
 ## Welcome to my look and feel themes for Plasma
 
-<iframe width="753" height="380" src="https://www.youtube.com/embed/Fv4ryIh0_1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
-
+[![PearLight and PearDark look and feel themes for Plasma (YouTube video)](https://raw.githubusercontent.com/adhec/plasma_tweaks/master/images/pear_light_02b.png)](https://www.youtube.com/watch?v=Fv4ryIh0_1M "PearLight and PearDark look and feel themes for Plasma")
 ---
 
 ### Light and dark themes
@@ -65,7 +64,7 @@ For test the splash screen, from terminal write:
 ksplashqml --test --window ~/.local/share/plasma/look-and-feel/PearLight
 ```
 
-## For animations in Login manager Plasma (SDDM) 
+## For animations in Login manager Plasma (SDDM)
 
 Visit [Ittu themes for SDDM](https://adhec.github.io/sddm_themes/)
 
@@ -73,7 +72,6 @@ Visit [Ittu themes for SDDM](https://adhec.github.io/sddm_themes/)
 
 Thanks for all the support :coffee: . If you liked my job send me a coffee :)  from [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url)
 
-[<img src="https://git.opendesktop.org/adhe/oie/raw/master/images/donate.png"  style="width:150px;">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) 
+[<img src="https://git.opendesktop.org/adhe/oie/raw/master/images/donate.png"  style="width:150px;">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url)
 
 Have fun ;)
-
